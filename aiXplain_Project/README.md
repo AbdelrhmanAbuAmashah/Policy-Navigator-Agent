@@ -1,4 +1,3 @@
-# Policy-Navigator-Agent
 # 🛡️ Policy Navigator Agent
 
 > **Your AI-powered privacy and compliance assistant** - Making complex policy requirements simple and accessible for everyone.
